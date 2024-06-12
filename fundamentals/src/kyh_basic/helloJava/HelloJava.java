@@ -1,4 +1,4 @@
-package KYH_Basic;
+package kyh_basic.helloJava;
 
 public class HelloJava {
     public static void main(String[] args){
