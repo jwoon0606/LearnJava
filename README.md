@@ -17,7 +17,7 @@ To build a strong foundation in Java, I used the following resources:
 
 ### Personal Notes and Practice
 <!--- [Fundamentals Notes](fundamentals/notes.md)-->
-- [Practice Code](fundamentals/code)
+- [Practice Code](fundamentals/src)
 
 ## Algorithms
 
