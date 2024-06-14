@@ -13,7 +13,7 @@ This repository documents my journey learning Java. It includes resources and pr
 ### Learning Materials
 To build a strong foundation in Java, I used the following resources:
 #### Courses
-- [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음 (인프런)](https://inf.run/2zsZz) (2024.6.12 ~ )
+- [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음 (인프런)](https://inf.run/2zsZz) (2024.6.12 ~ 2024.6.14)
 
 ### Personal Notes and Practice
 <!--- [Fundamentals Notes](fundamentals/notes.md)-->
