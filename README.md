@@ -24,3 +24,7 @@ This repository documents my journey learning Java. It includes resources and pr
 - [스프링 핵심 원리 - 기본편 (인프런)](https://inf.run/1qrVC)
   - 📘 정리 노트: [Spring Core](webDevelopment/spring_core.md)
   - 🗓 학습 기간: 2025.12.20 ~ 2025.12.28
+
+- [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://inf.run/BXQDk)
+  - 📘 정리 노트: [Spring Core](webDevelopment/spring_mvc1.md)
+  - 🗓 학습 기간: 2025.1.1 ~ 
